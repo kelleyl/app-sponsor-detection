@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/1.1.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/vocabulary/VideoDocument/v1",
+      "properties": {
+        "mime": "video",
+        "id": "d1",
+        "location": "file:///data/video/test-program.mp4"
+      }
+    }
+  ],
+  "views": []
+}
